@@ -21,11 +21,11 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "3.2.1",
+    "@docusaurus/core": "3.9.0",
     "@docusaurus/plugin-client-redirects": "3.2.1",
     "@docusaurus/plugin-google-analytics": "3.2.1",
-    "@docusaurus/preset-classic": "3.2.1",
-    "@docusaurus/theme-mermaid": "3.2.1",
+    "@docusaurus/preset-classic": "3.9.0",
+    "@docusaurus/theme-mermaid": "3.9.0",
     "@docusaurus/utils": "3.2.1",
     "@loadable/component": "5.15.3",
     "@mdx-js/react": "3.0.1",
